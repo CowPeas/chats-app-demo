@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple application that simulates a chat room that users can enter.
+I used Firebase as the Back-end.
+I used FireStore as the DataBase.
+I used React as the Front-end.
+
+I used Firebase authentication services to authenticate new users as they login with their Google Accounts.
+I used Firebase to simulate Live Chat where the messages appear on the different users screens simultaneously.
+
+
 
 ## Available Scripts
 
