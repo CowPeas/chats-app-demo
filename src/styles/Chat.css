@@ -7,10 +7,10 @@
     margin: 0 auto;
     border-radius: 5px;
     overflow: hidden;
-    border: 2px solid #e0699b;
+    border: 2px solid #f8046a;
   }
   .header {
-    background-color: #e93241;
+    background-color: #ff2c7d;
     color: white;
     width: 100%;
     text-align: center;
@@ -59,8 +59,10 @@
   .send-button {
     border: none;
     outline: none;
-    background: #fa2b2b;
+    background: #f82caa;
     color: #fff;
     font-size: 16px;
     font-weight: bold;
+    cursor: pointer;
+  
   }
